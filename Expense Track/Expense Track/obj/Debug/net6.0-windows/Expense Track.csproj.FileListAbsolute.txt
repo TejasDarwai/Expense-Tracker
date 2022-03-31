@@ -1,0 +1,31 @@
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\Expense Track.exe
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\Expense Track.deps.json
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\Expense Track.runtimeconfig.json
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\Expense Track.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\Expense Track.pdb
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.csproj.AssemblyReference.cache
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.Dashboard.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.csproj.GenerateResource.cache
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.AssemblyInfoInputs.cache
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.AssemblyInfo.cs
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.csproj.CoreCompileInputs.cache
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\refint\Expense Track.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.pdb
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.genruntimeconfig.cache
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\ref\Expense Track.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.Properties.Resources.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.Login.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.viewexpense.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.viewincome.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.Users.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense Track.csproj.CopyComplete
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.Addexpense.resources
+C:\Users\tejas\source\repos\Expense Track\Expense Track\obj\Debug\net6.0-windows\Expense_Track.Addincome.resources
